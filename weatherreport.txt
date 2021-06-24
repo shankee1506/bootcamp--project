@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - JAFFNA  || 24 Jun 2021 | 02:55:56 PM
+-------------------------------------------------------------
+Current temperature is: 26.99 deg C
+Current weather desc  :overcast clouds
+Current Humidity      :75%
+Current wind speed    :2.44kmph
